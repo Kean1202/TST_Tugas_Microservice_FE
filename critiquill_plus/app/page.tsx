@@ -17,13 +17,13 @@ const page = () => {
           <p className="font-inter text-xl font-semibold">
             1. Sign in using your Google Account by pressing Sign In <br/>
             <br/>
-            2. The Navbar should now change <br/>
+            2. The Navbar should now change, click on the "Start Debating" button to access the CritiQuill Plus services <br/>
             <br/>
-            3. Access the CritiQuill Plus Swagger UI by clicking the "Start Debating" button on the navbar <br/>
+            3. Register and log in once again in the "Authorization" tab of the Swagger UI page (optional) <br/>
             <br/>
-            4. Register and log in once again in the "Authorization" tab of the Swagger UI page <br/>
+            4. To use an account with full access to CritiQuill services, use the username "kean1202" and the password "KNS1202nafis" <br/>
             <br/>
-            5. Follow the CritiQuill Plus document to understand the function of each endpoint <br/>
+            5. Follow the CritiQuill Plus document to understand the function of each endpoint and how to start generating speech feedback<br/>
           </p>
           </div>
       </div>
